@@ -30,11 +30,11 @@
 * Implement hyperparameter tuning to enhance model performance.
 
 ## Methodology
-**Data Preprocessing:** Clean and structure raw text data into a well-organized Pandas DataFrame.
-**Exploratory Data Analysis (EDA):** Analyze distributions and visualize key metrics to uncover insights.
-**Sentiment Analysis:** Classify reviews into positive, neutral, or negative sentiments based on score ratings.
-**Model Development:** Develop and train machine learning models to predict review scores, incorporating hyperparameter tuning to optimize performance.
-**MLOps Operations with MLflow:** Utilize MLflow for comprehensive tracking of experiments, effective model management, and ensuring reproducibility throughout the machine learning lifecycle.
+* **Data Preprocessing:** Clean and structure raw text data into a well-organized Pandas DataFrame.
+* **Exploratory Data Analysis (EDA):** Analyze distributions and visualize key metrics to uncover insights.
+* **Sentiment Analysis:** Classify reviews into positive, neutral, or negative sentiments based on score ratings.
+* **Model Development:** Develop and train machine learning models to predict review scores, incorporating hyperparameter tuning to optimize performance.
+* **MLOps Operations with MLflow:** Utilize MLflow for comprehensive tracking of experiments, effective model management, and ensuring reproducibility throughout the machine learning lifecycle.
 
 ## Conclusion
 This project delivers valuable insights into consumer sentiments and product performance on Amazon by employing advanced NLP techniques to analyze and interpret extensive review data. The integration of MLOps practices, particularly with MLflow, significantly enhances the project's reliability and scalability. MLOps streamlines workflows, fosters collaboration, and facilitates continuous integration and deployment of machine learning models, thereby ensuring sustained model performance and effective management of the analytical process.
